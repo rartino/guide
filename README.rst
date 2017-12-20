@@ -1,11 +1,11 @@
-Handbook
-========
+The guide
+=========
+
+.. contents:: 
 
 Preface
 -------
 This book outlines how we work.
-
-.. contents:: :local:
 
 About our unit
 --------------
