@@ -20,15 +20,17 @@ New arrivals; living in Linköping, Sweden
 
 Practicalities
 --------------
+* `Saftey <safety.md>`_
 * `Food, snacks, coffee <food.md>`_
 * `Postal mail, phone, fax <communication.md>`_ 
+* `Finding your way on campus <maps.md>`_
 * `Meeting rooms <meetingrooms.md>`_
 * `Travel <travel.md>`_
 * `Vacation, Sick leave, Working from home <vacation.md>`_
 * `Purchases <purchase.md>`_ (Including buying a computer)
 * `Library <library.md>`_ (Books and papers) 
 * `Group calendars <calendars.md>`_ 
-* `Group communication channels <channels.md>`_ 
+* `Information channels <channels.md>`_ 
 * `Organizations, contacts, etc. worth to know <other.md>`_ 
 
 Computers
