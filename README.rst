@@ -7,9 +7,17 @@ Preface
 -------
 This book outlines how we work.
 
-If you find any inaccuracies or other things to update in this book, please
-suggest a change. Feel free to use the issues system in github, a pull-request,
-or simply an email to Rickard.
+If you find anything worth to update in this book, please
+suggest a change. Use the issues system in github, issue a pull-request,
+or just simply send an email to Rickard with the suggested change.
+
+Disclaimer: this is a multi-author best-effort to collect info potentially
+useful for people working here. There are no *guarantees* that the supplied info
+is correct. Note that this especially applies to information regarding contracts,
+insurance, healthcare, and other info that could be, e.g., construed as legal advice. 
+From our channels you will only ever be given informal advice in such matters. 
+It is ultimately your responsibility to seek out, read and understand the actual rules, or
+to hire legal expertise to help you with this.
 
 About our unit
 --------------
@@ -50,9 +58,12 @@ Working
 * `Professional conduct and ethics <Working/conduct.rst>`_
 * `Career paths at LiU <Working/paths.rst>`_
 
-Who and how to ask for help
----------------------------
-(To be added)
+Who and how to ask for help about formal matters
+------------------------------------------------
+* If unsure who to ask, a good start is to ask your 'fadder' who to ask. 
+* If still unsure, ask the group secretary.
+* About contracts, etc., contact the IFM 'HR-partner' (https://liu.se/en/organisation/liu/ifm).
+* Ask Rickard, preferably by email (try to avoid simply dropping by unless urgent or of a more personal nature).
 
 Info for PhD students
 ---------------------
