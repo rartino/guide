@@ -7,99 +7,123 @@ Preface
 -------
 This book outlines how we work.
 
+If you find any inaccuracies or other things to update in this book, please
+suggest a change. Feel free to use the issues system in github, a pull-request,
+or simply an email to Rickard.
+
 About our unit
 --------------
 (To be added)
 
-New arrivals; living in Linköping, Sweden
------------------------------------------
-* `Arriving from outside Sweden <international.rst>`_
-* `Finding housing <housing.rst>`_
-* `Setting up at our deparment <startup.md>`_
-* `Out-of-work activities and events <fun.md>`_
+Arriving
+--------
+* `Arriving from outside Sweden <Arriving/international.rst>`_
+* `Finding housing <Arriving/housing.rst>`_
+* `Setting up at our deparment <Arriving/startup.rst>`_
+* `Out-of-work activities and events <Arriving/fun.rst>`_
 
 Practicalities
 --------------
-* `Saftey <safety.md>`_
-* `Food, snacks, coffee <food.md>`_
-* `Postal mail, phone, fax <communication.md>`_ 
-* `Finding your way on campus <maps.md>`_
-* `Meeting rooms <meetingrooms.md>`_
-* `Travel <travel.md>`_
-* `Vacation, Sick leave, Working from home <vacation.md>`_
-* `Purchases <purchase.md>`_ (Including buying a computer)
-* `Library <library.md>`_ (Books and papers) 
-* `Group calendars <calendars.md>`_ 
-* `Information channels <channels.md>`_ 
-* `Organizations, contacts, etc. worth to know <other.md>`_ 
-
-Computers
+* `Saftey <Practicalities/safety.rst>`_
+* `Food, snacks, coffee <Practicalities/food.rst>`_
+* `Postal mail, phone, fax <Practicalities/communication.rst>`_ 
+* `Finding your way <Practicalities/maps.rst>`_
+* `Meeting rooms <Practicalities/meetingrooms.rst>`_
+* `Travel <Practicalities/travel.rst>`_
+* `Vacation, Sick leave, Working from home <Practicalities/vacation.rst>`_
+* `Purchases <Practicalities/purchase.rst>`_ (Including buying a computer)
+* `Library <Practicalities/library.rst>`_ (Books and papers) 
+* `Information channels <Practicalities/channels.rst>`_ (Email lists and shared calendars)
+* `Publishing <Practicalities/publishing.rst>`_
+* `Organizations, contacts, etc. worth to know <Practicalities/other.rst>`_ 
+* `Lost and found <Practicalities/lost.rst>`_
+  
+Computing
 ---------
-* `Central IT, Software <it.md>`_ (Computers, Printers) 
-* `Our IT infrastructure, software stack <groupit.md>`_
-* `Supercomputer access <supercomputers.md>`_
+* `Central IT, Software <Computing/it.rst>`_ (Computers, Printers) 
+* `Our IT infrastructure, software stack <Computing/groupit.rst>`_
+* `Supercomputer access <Computing/supercomputers.rst>`_
 
-Conduct
+Working
 -------
-* `Writing papers, presentations, etc. <writing.md>`_
-* `Professional conduct and ethics <conduct.md>`_
-* `Career paths <career.md>`_
+* `Writing papers, presentations, etc. <Working/writing.rst>`_
+* `Professional conduct and ethics <Working/conduct.rst>`_
+* `Career paths at LiU <Working/paths.rst>`_
 
-Reading material
-----------------
-
-Materials science
-^^^^^^^^^^^^^^^^^
-
-Computer programming
-^^^^^^^^^^^^^^^^^^^^
-
-Who to ask for help
--------------------
+Who and how to ask for help
+---------------------------
 (To be added)
 
 Info for PhD students
 ---------------------
-* `How to become a PhD student <phd/howto.md>`_
-* `Formalia <phd/formalia.md>`_
-* `Expectations <phd/work.md>`_
-* `Teaching <phd/teaching.md>`_
-* `Disseration procedure <phd/disseration.md>`_
-* `Info for supervisors <phd/supervision.md>`_
+* `How to become a PhD student <Phd/howto.rst>`_
+* `Formalia <Phd/formalia.rst>`_
+* `Expectations <Phd/work.rst>`_
+* `Teaching <Phd/teaching.rst>`_
+* `Disseration procedure <Phd/disseration.rst>`_
+* `Info for supervisors <Phd/supervision.rst>`_
 
 Info for postdocs
 ---------------------
-* `How to become a postdoc <postdoc/howto.md>`_
-* `Formalia <postdoc/formalia.md>`_
-* `Expectations <postdoc/work.md>`_
-* `Teaching <postdoc/teaching.md>`_
-* `Info for supervisors <phd/supervision.md>`_
+* `How to become a postdoc <Postdoc/howto.rst>`_
+* `Formalia <Postdoc/formalia.rst>`_
+* `Expectations <Postdoc/work.rst>`_
+* `Teaching <Postdoc/teaching.rst>`_
+* `Info for supervisors <Postdoc/supervision.rst>`_
 
 Info for diploma workers
 ------------------------
-* `How to become a diploma worker <diploma/howto.md>`_
-* `Formalia <diploma/formalia.md>`_
-* `Expectations <diploma/work.md>`_
-* `Master's thesis <diploma/thesis.md>`_
-* `Info for supervisors <diploma/supervision.md>`_
+* `How to become a diploma worker <Diploma/howto.rst>`_
+* `Formalia <Diploma/formalia.rst>`_
+* `Expectations <Diploma/work.rst>`_
+* `Master's thesis <Diploma/thesis.rst>`_
+* `Info for supervisors <Diploma/supervision.rst>`_
 
 Info for students doing shorter project work
 --------------------------------------------
-* `How to become a project worker <howto.md>`_
-* `Formalia <diploma/formalia.md>`_
-* `Expectations <diploma/work.md>`_
-* `Final report <diploma/report.md>`_
-* `Info for supervisors <diploma/supervision.md>`_
+* `How to become a project worker <Projectwork/howto.rst>`_
+* `Formalia <Projectwork/formalia.rst>`_
+* `Expectations <Projectwork/work.rst>`_
+* `Final report <Projectwork/report.rst>`_
+* `Info for supervisors <Projectwork/supervision.rst>`_
 
 Info for summer workers
 -----------------------
-* `How to become a summer worker <howto.md>`_
-* `Formalia <summer/formalia.md>`_
-* `Expectations <summer/work.md>`_
-* `Info for supervisors <summer/supervision.md>`_
+* `How to become a summer worker <Summerwork/howto.rst>`_
+* `Formalia <Summerwork/formalia.rst>`_
+* `Expectations <Summerwork/work.rst>`_
+* `Info for supervisors <Summerwork/supervision.rst>`_
 
 Info for seniors
 ----------------
-* `Formalia <phd/formalia.md>`_
-* `Expectations <phd/work.md>`_
+* `Formalia <Senior/formalia.rst>`_
+* `Expectations <Senior/work.rst>`_
+
+Reading material suggestions
+----------------------------
+
+Materials science and Electronic Structure
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
+- Richard M. Martin, Electronic Structure: http://www.amazon.com/Electronic-Structure-Theory-Practical-Methods/dp/0521534402 (a more practical-use oriented book)
+
+Density functional theory basics and practicalities
+"""""""""""""""""""""""""""""""""""""""""""""""""""
+- Walter Kohn Nobel lecture: http://link.aps.org/doi/10.1103/RevModPhys.71.1253 (A very good first read and introduction to DFT.)
+- Rickard's PhD thesis chapter 2-6: http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-428, and lecture notes in Rickard's DFT course (ask Rickard)
+- Designing meaningful density functional theory calculations in materials science--a primer, Ann Mattsson et al. http://iopscience.iop.org/article/10.1088/0965-0393/13/1/R01/meta (Good for practical advice on convergence, etc.)
+- Curtarolo et al., The high-throughput highway to computational materials design: http://dx.doi.org/10.1038/nmat3568 (Review of High-throughput materials design)
+- VASP hands-on sessions: http://cms.mpi.univie.ac.at/vasp-workshop/slides/documentation.htm
+  
+Density functional theory fundamentals
+""""""""""""""""""""""""""""""""""""""
+- Kieron Burke, the ABC of DFT: http://www.chem.uci.edu/~kieron/dftold2/materials/bookABCDFT/gamma/g1.pdf
+- Klaus Capelle, A bird's-eye view of density-functional theory: http://arxiv.org/abs/cond-mat/0211443
+- Parr and Yang, Density-Functional Theory of Atoms and Molecules: http://www.amazon.com/Density-Functional-Molecules-International-Monographs-Chemistry/dp/0195092767 (great coverage of fundamental theory, but starting to get a bit dated.)
+- Jorge Kohanoff, Electronic Structure Calculations for Solids and Molecules: http://www.amazon.com/Electronic-Structure-Calculations-Solids-Molecules/dp/0521815916 (book, theory-oriented)
+- Jones and Gunnarsson, The density functional formalism, its applications and prospects: http://rmp.aps.org/abstract/RMP/v61/i3/p689_1 (review paper from 1989)
+  
+Computing
+^^^^^^^^^
+- LinuxCommand.org: http://linuxcommand.org/ (Good introduction to the Linux command line, etc.)
+- Eric Jones and Travis Oliphant, Introduction to Scientific Computing: https://www.physics.rutgers.edu/grad/509/python1.pdf (Presentation on the use of Python for Scientific Computing)
 
