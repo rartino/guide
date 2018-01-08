@@ -7,7 +7,7 @@ Preface
 -------
 This book outlines how we work.
 
-If you find anything worth to update in this book, please
+If you find anything in need of an update, please don't hesitate to
 suggest a change. Use the issues system in github, issue a pull-request,
 or just simply send an email to Rickard with the suggested change.
 
