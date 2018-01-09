@@ -2,6 +2,7 @@ New arrivals; living in Linköping, Sweden
 =========================================
 
 Helpful resources:
+  - https://old.liu.se/insidan/HR-Personal/for_foreign_employees/utlandska-medborgare/?l=en
   - https://www.euraxess.se/information/search/field_service_category/living-europe-1221/country/sweden-1081
   - http://work.sweden.se/plan-your-move/welcome-to-sweden-prepare-for-your-move/
   - https://sweden.se/
