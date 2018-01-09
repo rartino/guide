@@ -27,7 +27,7 @@ Arriving
 --------
 * `Arriving from outside Sweden <Arriving/international.rst>`_
 * `Finding housing <Arriving/housing.rst>`_
-* `Setting up at our deparment <Arriving/startup.rst>`_
+* `Setting up at our department <Arriving/startup.rst>`_
 * `Out-of-work activities and events <Arriving/fun.rst>`_
 
 Practicalities
