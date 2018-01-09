@@ -26,7 +26,7 @@ About our unit
 Arriving
 --------
 * `Arriving from outside Sweden <Arriving/international.rst>`_
-* `Finding housing <Arriving/housing.rst>`_
+* `Finding accomodation <Arriving/accomodation.rst>`_
 * `Setting up at our department <Arriving/startup.rst>`_
 * `Out-of-work activities and events <Arriving/fun.rst>`_
 
