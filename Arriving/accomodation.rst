@@ -1,7 +1,7 @@
 Accomodation
 ============
 
-To find permanent accomodation in Linköping can be quite tricky. One may have to prepare for starting with a more temporary short-term solution.
+To find permanent accomodation in Linköping can be quite tricky. One may have to prepare for starting with a more temporary short-term solution. At the time of writing, the cost is in general SEK 5000 - 8000 for a furnished studio/room in a shared  apartment and SEK 8000 - 10000 for a one to two bedroom apartment, inclusive of water, electricity, heating, broadband and TV license fee. For a privately rented house the price is between SEK 10000 - 12000 and can include or exclude utility bills.
 
 * Register with `Victoria Park <http://www.victoriapark.se/>`, a company that provides non-furnished apartments. (Sadly the home page is only in Swedish, but use the provided google translate dropdown at the top.) When registering, make sure to enter that you are looking for an appartment to work at Linköping University. They may have available apartments on the homepage that you can apply for directly. No Swedish personal identity number is required just your date of birth. The 'arrival helper' or other people arranging your arrival may be able to further help you (e.g., for looking at the apartment), just ask.
 * Register at `Stångåstaden <http://www.stangastaden.se>`_, the largest housing company in Linköping for rented properties. They base priority in assigning appartments on a 'point system', where each day in queue is one point. However, at the time of writing, moving to Linköping for work grants 600 points.
