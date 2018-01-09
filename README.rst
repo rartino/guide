@@ -60,10 +60,10 @@ Working
 
 Who and how to ask for help about formal matters
 ------------------------------------------------
-* If unsure who to ask, a good start is to ask your 'fadder' who to ask. 
+* A good start is to ask your 'fadder' who to ask. 
 * If still unsure, ask the group secretary.
 * About contracts, etc., contact the IFM 'HR-partner' (https://liu.se/en/organisation/liu/ifm).
-* Ask Rickard, preferably by email (try to avoid simply dropping by unless urgent or of a more personal nature).
+* Ask Rickard, preferably by email (try to avoid simply dropping by, unless urgent or of a more personal nature).
 
 Info for PhD students
 ---------------------
