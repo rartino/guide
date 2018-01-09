@@ -62,7 +62,7 @@ To be added.
 
 Childcare, daycare, schools
 ---------------------------
-To be added.
+It seems one should be guaranteed a place after living in Linköping for 4 months. [TODO: Does this apply also to non-citizens?]
 
 Driver's license
 ----------------
