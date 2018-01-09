@@ -31,6 +31,10 @@ One of your priorities coming to Sweden should be to get a personal identificati
 
 Once you have a personnummer you may want to get a Swedish ID card, used for various needs to identify youself. 
 
+Rules About Residency
+---------------------
+As an EU passport holder one does not require a visa or residence permit for Sweden nor does one need to register the right of residency. Make sure passport/s are valid for the duration of stay in Sweden.
+
 Accomodation
 ------------
 * Your first priority should be to contact the 'arrival helper' (see `Help`_)
@@ -40,7 +44,7 @@ Accomodation
 
 Insurance
 ---------
-At the time of writing, LiU has a group insurance that covers employees to/from work and during your time at work (accident, liability, illness etc.) [TODO: Does this apply also to those scholarships?] 
+At the time of writing, LiU has a group insurance that covers employees to/from work and during your time at work (accident, liability, illness etc.) [TODO: Does this apply also to those scholarships?] However, if you will stay some time in Sweden before you begin employment, you are recommended to arrange for some insurance until that time.
 
 The insurance company `Länsförsäkringar <http://www.lansforsakringar.se/ostgota/om-oss/kontakta-oss/>`_ has an office in Linkoping. You are recommended to take out at least a house and contents insurance to cover personal belongings, this may even be required by your landlord. 
 
