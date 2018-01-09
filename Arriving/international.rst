@@ -64,6 +64,9 @@ Childcare, daycare, schools
 ---------------------------
 It seems one should be guaranteed a place after living in Linköping for 4 months. [TODO: Does this apply also to non-citizens?]
 
+For more information contact the `childcare department at the municipality <http://goo.gl/XBrJEE>`_. (Despite the lack of a website in English, they should be able to communicate in English if you call or email them.)
+
+
 Driver's license
 ----------------
 To be added.
