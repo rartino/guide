@@ -40,8 +40,8 @@ Practicalities
 * `Meeting rooms <Practicalities/meetingrooms.rst>`_
 * `Information channels <Practicalities/channels.rst>`_ (Email lists and shared calendars)
 * `Travel <Practicalities/travel.rst>`_
-* `Vacation, Sick leave, Working from home <Practicalities/vacation.rst>`_
-* `Purchases <Practicalities/purchase.rst>`_ (Including buying a computer)
+* `Being away: vacation, sick leave, parental leave, working from home <Practicalities/away.rst>`_
+* `Purchases and Expenses <Practicalities/purchase.rst>`_ (Including buying a computer)
 * `Library <Practicalities/library.rst>`_ (Books and papers) 
 * `Lost and found <Practicalities/lost.rst>`_
 * `Publishing <Practicalities/publishing.rst>`_
