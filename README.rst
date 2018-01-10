@@ -57,6 +57,7 @@ Working
 * `Professional conduct and ethics <Working/conduct.rst>`_
 * `Writing papers, presentations, etc. <Working/writing.rst>`_
 * `Career paths at LiU <Working/paths.rst>`_
+* `Being a supporting peer for someone else <Working/supportingpeer.rst>`_
 
 Who and how to ask for help about formal matters
 ------------------------------------------------
