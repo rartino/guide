@@ -11,8 +11,18 @@ The responsibility of the supporting peer is:
 
 * Meet up with the new employee at train station/airport/bus stop and also 
   show him/her to booked accommodation.
-* Show the most important functions at IFM. For example: labs, lunchroom, 
-  places to "fika" (coffee, tea) etc. 
+* Show the new employee around the building, including:
+  - Labs
+  - Lunchroom, 
+  - Places to "fika" (coffee, tea) etc. 
+  - The different departments/units
+  - Rest room ('vilorum')
+  - Emergency care equipment
+  - Fire equipment
+  - How to escape the building.
+* Make sure their computer account is setup ('Lukas' [still relevant?], email, file storage, IT-security)
+* Retrive keys, id card, and show physical mailbox.
+* Make sure internal webpages are updated with the new employee's name.  
 * Inform about hours for lunch- and coffee breaks as well as meeting times 
   for the new employee's department and other meetings. 
 * Introduce the new employee to his/her new colleagues.
@@ -44,8 +54,10 @@ Guided tour for new employees
 The supporting peer is supposed to introduce the new employee to the following roles at the department:
 
 * Head of department
+* Kanslichef
 * Personnel Administrator
 * Head of IT (not so relevant anymore, IT is centralized.)
+* Contact person for IT support
 * Responsible for officinalis
 * Goods reception/Porter’s office
 * Technical Supply service
