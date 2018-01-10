@@ -69,8 +69,12 @@ formal matter, this person is a good place to get started. Beyond that:
 * About contracts, etc., contact the IFM 'HR-partner' (https://liu.se/en/organisation/liu/ifm).
 * Ask Rickard, preferably by email (try to avoid simply dropping by, unless urgent or of a more personal nature).
 
-Info for PhD students
----------------------
+General info for supervising and managing
+-----------------------------------------
+* `Recruiting <Supervision/recruiting.rst>`_
+
+Specific info for PhD students
+------------------------------
 * `How to become a PhD student <Phd/howto.rst>`_
 * `Formalia <Phd/formalia.rst>`_
 * `Expectations <Phd/work.rst>`_
@@ -78,44 +82,44 @@ Info for PhD students
 * `Disseration procedure <Phd/disseration.rst>`_
 * `Info for supervisors <Phd/supervision.rst>`_
 
-Info for postdocs
----------------------
+Specific info for postdocs
+--------------------------
 * `How to become a postdoc <Postdoc/howto.rst>`_
 * `Formalia <Postdoc/formalia.rst>`_
 * `Expectations <Postdoc/work.rst>`_
 * `Teaching <Postdoc/teaching.rst>`_
 * `Info for supervisors <Postdoc/supervision.rst>`_
 
-Info for diploma workers
-------------------------
+Specific info for diploma workers
+---------------------------------
 * `How to become a diploma worker <Diploma/howto.rst>`_
 * `Formalia <Diploma/formalia.rst>`_
 * `Expectations <Diploma/work.rst>`_
 * `Master's thesis <Diploma/thesis.rst>`_
 * `Info for supervisors <Diploma/supervision.rst>`_
 
-Info for students doing shorter project work
---------------------------------------------
+Specific info for students doing a shorter project as coursework
+----------------------------------------------------------------
 * `How to become a project worker <Projectwork/howto.rst>`_
 * `Formalia <Projectwork/formalia.rst>`_
 * `Expectations <Projectwork/work.rst>`_
 * `Final report <Projectwork/report.rst>`_
 * `Info for supervisors <Projectwork/supervision.rst>`_
 
-Info for summer workers
------------------------
+Specific info for summer/project workers
+----------------------------------------
 * `How to become a summer worker <Summerwork/howto.rst>`_
 * `Formalia <Summerwork/formalia.rst>`_
 * `Expectations <Summerwork/work.rst>`_
 * `Info for supervisors <Summerwork/supervision.rst>`_
 
-Info for seniors
+Specific info for seniors
 ----------------
 * `Formalia <Senior/formalia.rst>`_
 * `Expectations <Senior/work.rst>`_
 
-Reading material suggestions
-----------------------------
+Appendix A: Reading material suggestions
+----------------------------------------
 
 Materials science and Electronic Structure
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
