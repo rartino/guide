@@ -12,10 +12,12 @@ responsibility of the supporting peer is to guide the new employee to people wit
 IFM. For more info, see: `Being a supporting peer <../Work/supportingpeer.rst>`_
 * Inform staff and department
 * Assign a workspace and get it setup:
+
   - Computer
   - Email
   - Telephone (including reporting the number to central LiU / 'växeln').
   - Name on the door
+
 * Oversee the first work week.
 * Make sure the paperwork is in order ('förordnande')
 
