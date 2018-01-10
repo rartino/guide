@@ -8,14 +8,14 @@ Resturants
 ----------
 * `1854 <http://1854.se/>`_
 * `Storan <http://storan.se/>`_
-* `Malt och Humle <http://maltochhumle.com/>_`
+* `Malt och Humle <http://maltochhumle.com/>`_
 * `Stångs magasin <http://stangsmagasin.se/sv/>`_ 
 * `Scandic Verandan vid ån <https://www.scandichotels.se/hotell/sverige/linkoping/scandic-linkoping-city/restaurang-bar/restaurang-och-bar>`_. 
 * `Pappa grappa <http://pappagrappa.se/linkoping>`_
 * `BK Living room <http://www.bklivingroom.se>`_
 * `Parisien <http://www.restaurantparisien.com>`_
 * `Gula huset <http://www.gulahuset.com/>`_
-* `Aioli Tapasbar <http://www.aiolitapasbar.se/>`
+* `Aioli Tapasbar <http://www.aiolitapasbar.se/>`_
 * `Rico <http://www.ricolkpg.com>`_ (quite meat oriented)
 * `Tre bröder <http://trebroder.net/>`_
 * `Palatset <http://www.palatset.nu/index.php>`_
@@ -23,7 +23,6 @@ Resturants
 Bars
 ----
 * `Palatset <http://www.palatset.nu/index.php>`_
-[TODO: add]
 
 Entertainment and excursions
 ----------------------------
@@ -52,8 +51,8 @@ Museums and other family activities
 * Lill-Valla lekpark
 * Sjoberga Islandshastgard
 
-Places in vinicity
-------------------
+Places further away
+-------------------
 * Stockholm is roughly 2 hours away with car or train.
 
 Buying alcohol
