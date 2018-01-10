@@ -41,10 +41,10 @@ The responsibility of the supporting peer is:
   who will be staying for longer than one year at IFM, to the Migration Board, 
   the Tax office, the bank and other places where the new employee may need support. 
 * Help the new employee find, read, and understand:
-    - The information from LiU's salary department.
-    - Rules/instructions in IFM’s Institution handbook on IFM's intranet.
-    - Tules/instructions in the area of research manual at the area of research's home page.
-    - Rules/instructions for employees regarding usage of computer-, network-, and system resources.
+  - The information from LiU's salary department.
+  - Rules/instructions in IFM’s Institution handbook on IFM's intranet.
+  - Tules/instructions in the area of research manual at the area of research's home page.
+  - Rules/instructions for employees regarding usage of computer-, network-, and system resources.
 * Help the person send a presentation of/about themself to be published in IFM's Information 
   letter sent out every Wednesday.
 
