@@ -71,7 +71,9 @@ formal matter, this person is a good place to get started. Beyond that:
 
 General info for supervising and managing
 -----------------------------------------
+* `General guidelines <Supervision/work.rst>`_
 * `Recruiting <Supervision/recruiting.rst>`_
+* `Recommendaton letters <Supervision/recommendations.rst>`_
 
 Specific info for PhD students
 ------------------------------
