@@ -1,8 +1,8 @@
 Out-of-work activities and events
 =================================
 
-Linköping city has a fairly large set of resturants and bars. In the vinicity of Linköping there are a fair number of
-possible activities. Most things can be reached by walking distance from the city center, or at least by bicycle.
+Linköping has a fairly large set of activities, resturants and bars. 
+Most things can be reached by walking distance from the city center, or at least by bicycle.
 
 Resturants
 ----------
