@@ -35,17 +35,24 @@ Practicalities
 * `Saftey <Practicalities/safety.rst>`_
 * `Food, snacks, coffee <Practicalities/food.rst>`_
 * `Postal mail, phone, fax <Practicalities/communication.rst>`_ 
+* `Office supplies <Practicalities/supplies.rst>`_
 * `Finding your way <Practicalities/maps.rst>`_
 * `Meeting rooms <Practicalities/meetingrooms.rst>`_
+* `Information channels <Practicalities/channels.rst>`_ (Email lists and shared calendars)
 * `Travel <Practicalities/travel.rst>`_
 * `Vacation, Sick leave, Working from home <Practicalities/vacation.rst>`_
 * `Purchases <Practicalities/purchase.rst>`_ (Including buying a computer)
 * `Library <Practicalities/library.rst>`_ (Books and papers) 
-* `Information channels <Practicalities/channels.rst>`_ (Email lists and shared calendars)
-* `Publishing <Practicalities/publishing.rst>`_
-* `Organizations, contacts, etc. worth to know <Practicalities/other.rst>`_ 
 * `Lost and found <Practicalities/lost.rst>`_
-  
+* `Publishing <Practicalities/publishing.rst>`_
+* `Contacts, etc. worth to know <Practicalities/other.rst>`_ 
+
+Formalities
+-----------
+* `Salary and benefits <Formalities/salary.rst>`
+* `Work environment <Formalities/environment.rst>`
+* `Department and University Organization <Formalities/organization.rst>`_
+
 Computing
 ---------
 * `Central IT, Software <Computing/it.rst>`_ (Computers, Printers) 
@@ -57,6 +64,7 @@ Working
 * `Professional conduct and ethics <Working/conduct.rst>`_
 * `Writing papers, presentations, etc. <Working/writing.rst>`_
 * `Career paths at LiU <Working/paths.rst>`_
+* `Rules, Regulations, and Law about publicity and confidentiality <Working/publicity.rst>`_
 * `Being a supporting peer for someone else <Working/supportingpeer.rst>`_
 
 Who and how to ask for help about formal matters
