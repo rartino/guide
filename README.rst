@@ -49,8 +49,8 @@ Practicalities
 
 Formalities
 -----------
-* `Salary and benefits <Formalities/salary.rst>`
-* `Work environment <Formalities/environment.rst>`
+* `Salary and benefits <Formalities/salary.rst>`_
+* `Work environment <Formalities/environment.rst>`_
 * `Department and University Organization <Formalities/organization.rst>`_
 
 Computing
