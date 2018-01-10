@@ -54,13 +54,15 @@ Computing
 
 Working
 -------
-* `Writing papers, presentations, etc. <Working/writing.rst>`_
 * `Professional conduct and ethics <Working/conduct.rst>`_
+* `Writing papers, presentations, etc. <Working/writing.rst>`_
 * `Career paths at LiU <Working/paths.rst>`_
 
 Who and how to ask for help about formal matters
 ------------------------------------------------
-* A good start is to ask your 'fadder' who to ask. 
+When you arrive you should be assigned a 'supporting peer' ('fadder' in Swedish, also often referred to as 'mentor')
+to show you around and introducing the department and the university. If you don't know where to turn for a
+formal matter, this person is a good place to get started. Beyond that:
 * If still unsure, ask the group secretary.
 * About contracts, etc., contact the IFM 'HR-partner' (https://liu.se/en/organisation/liu/ifm).
 * Ask Rickard, preferably by email (try to avoid simply dropping by, unless urgent or of a more personal nature).
