@@ -4,8 +4,7 @@ Being a supporting peer for someone else
 A supporting peer is supposed to be assigned by the supervisor/Host (or other person responsible for the group) 
 in a timely manner before a new employee arrives. The supporting peer is suitably a person who has been employed 
 at IFM for some time and knows the routines and preferably will be working closely with the new person. 
-The supporting peer should have a similar position at IFM as the new employee. The administrator responsible for the arrival will hand the supporting peer contact details 
-  and other useful information regarding the arrival of the new person (i e accommodation, arrival time etcetera).
+The supporting peer should have a similar position at IFM as the new employee. The administrator responsible for the arrival will hand the supporting peer contact details and other useful information regarding the arrival of the new person (i.e. accommodation, arrival time, etc.)
 
 The responsibility of the supporting peer is:
 
