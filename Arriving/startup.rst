@@ -21,6 +21,7 @@ Take help from the supporting to:
   - Fire equipment
   - How to escape the building.
   - Key administrative people:
+  
     * Head of department
     * Kanslichef
     * Personnel Administrator
