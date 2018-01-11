@@ -4,6 +4,9 @@ Large parts of this page and most links are in Swedish, sorry about that.
 
 Sources of information
 ----------------------
+There are central rules, and then each 'programnämnd' can add additional rules. The cental portal for info is:
+
+* `Central info page about examensarbeten <https://www.lith.liu.se/examensarbete/examensarbete?l=sv>`_
 
 Central info master/civ ing
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -20,10 +23,6 @@ Central info kandidat
 *  `Kursplan för examensarbete kandiat <https://liu.se/studieinfo/programkurs/tqxx10/>`_ (Make sure to select 'Civ ing. i teknisk fysik och elektroteknik' in the drop down)
 *  `Kandidatarbete: generella bestämmelser i studiehandboken <http://www.lith.liu.se/sh/rules.html#b3.6>`_
 *  `Central infosida om kandidatarbetet <https://www.lith.liu.se/examensarbete/examensarbete-kandidatutb?l=sv>`_ 
-
-Central info other levels
-~~~~~~~~~~~~~~~~~~~~~~~~~~
-* `Central info page about examensarbeten <https://www.lith.liu.se/examensarbete/examensarbete?l=sv>`_
 
 Info from IFM
 ~~~~~~~~~~~~~~
@@ -134,6 +133,13 @@ Anmälan
 
 Utförande
 ---------
+* Inform student about rules regarding plagiat
+
+    *Vid examination som innebär rapportskrivande och där studenten kan antas ha tillgång till andras källor (exempelvis vid
+    självständiga arbeten, uppsatser etc) måste inlämnat material utformas i enlighet med god sed för källhänvisning
+    (referenser eller citat med angivande av källa) vad gäller användning av andras text, bilder, idéer, data etc. Det ska
+    även framgå ifall författaren återbrukat egen text, bilder, idéer, data etc från tidigare genomförd examination.
+    Underlåtelse att ange sådana källor kan betraktas som försök till vilseledande vid examination.*
 
 * Planeringsrapport skrivs under de första veckorna och godkänns av
   examinatorn.
@@ -244,3 +250,13 @@ Avslutande
   skrivs <http://www.lith.liu.se/sh/reflektion_en.html>`__ (rubriker
   enl. instruktion, 2-4 A4), lämnas in till examinator, examinator
   skickar till nämndsamordaren (Lena?)
+
+If things go wrong
+------------------
+* Plagiat or other misconduct: 
+
+    *Vid grundad misstanke om att en student försökt vilseleda vid examination eller när en studieprestation ska bedömas ska
+    enligt Högskoleförordningens 10 kapitel examinator anmäla det vidare till universitetets disciplinnämnd. Möjliga
+    konsekvenser för den studerande är en avstängning från studierna eller en varning. För mer information
+    se https://www.student.liu.se/studenttjanster/lagar-regler-rattigheter?l=sv.*
+
