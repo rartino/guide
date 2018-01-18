@@ -1,10 +1,10 @@
 The guide
 =========
 
-.. contents:: 
+.. contents:: :depth: 2
 
 Preface
--------
++++++++
 This book outlines how we work.
 
 If you find anything in need of an update, please don't hesitate to
@@ -20,8 +20,11 @@ It is ultimately your responsibility to seek out, read and understand the actual
 to hire legal expertise to help you with this.
 
 About our unit
---------------
+++++++++++++++
 (To be added)
+
+Part 1: Getting started, things to know 
++++++++++++++++++++++++++++++++++++++++
 
 Arriving
 --------
@@ -77,14 +80,23 @@ formal matter, this person is a good place to get started. Beyond that:
 * About contracts, etc., contact the IFM 'HR-partner' (https://liu.se/en/organisation/liu/ifm).
 * Ask Rickard, preferably by email (try to avoid simply dropping by, unless urgent or of a more personal nature).
 
-General info for supervising and managing
------------------------------------------
+Part 2: Guidelines, hints, and day-to-day info
+++++++++++++++++++++++++++++++++++++++++++++++
+
+Supervising and managing
+------------------------
 * `General guidelines <Supervision/work.rst>`_
 * `Recruiting <Supervision/recruiting.rst>`_
 * `Recommendaton letters <Supervision/recommendations.rst>`_
 
-Specific info for PhD students
-------------------------------
+Teaching
+--------
+* `Tutorials (Lektioner) <Teaching/tutorials.rst>`_
+* `Lectures <Teaching/lectures.rst>`_
+* `Course examiner (examinator) <Teaching/examiner.rst>`_
+
+PhD students
+------------
 * `How to become a PhD student <Phd/howto.rst>`_
 * `Formalia <Phd/formalia.rst>`_
 * `Expectations <Phd/work.rst>`_
@@ -92,51 +104,51 @@ Specific info for PhD students
 * `Disseration procedure <Phd/disseration.rst>`_
 * `Info for supervisors <Phd/supervision.rst>`_
 
-Specific info for postdocs
---------------------------
+Postdocs
+--------
 * `How to become a postdoc <Postdoc/howto.rst>`_
 * `Formalia <Postdoc/formalia.rst>`_
 * `Expectations <Postdoc/work.rst>`_
 * `Teaching <Postdoc/teaching.rst>`_
 * `Info for supervisors <Postdoc/supervision.rst>`_
 
-Specific info for diploma workers
----------------------------------
+Diploma workers
+---------------
 * `How to become a diploma worker <Diploma/howto.rst>`_
 * `Formalia <Diploma/formalia.rst>`_
 * `Expectations <Diploma/work.rst>`_
 * `Master's thesis <Diploma/thesis.rst>`_
 * `Info for supervisors <Diploma/supervision.rst>`_
 
-Specific info for students doing a shorter project as coursework
-----------------------------------------------------------------
+Shorter coursework project workers
+----------------------------------
 * `How to become a project worker <Projectwork/howto.rst>`_
 * `Formalia <Projectwork/formalia.rst>`_
 * `Expectations <Projectwork/work.rst>`_
 * `Final report <Projectwork/report.rst>`_
 * `Info for supervisors <Projectwork/supervision.rst>`_
 
-Specific info for summer/project workers
-----------------------------------------
+Summer project workers
+----------------------
 * `How to become a summer worker <Summerwork/howto.rst>`_
 * `Formalia <Summerwork/formalia.rst>`_
 * `Expectations <Summerwork/work.rst>`_
 * `Info for supervisors <Summerwork/supervision.rst>`_
 
 Specific info for seniors
-----------------
+-------------------------
 * `Formalia <Senior/formalia.rst>`_
 * `Expectations <Senior/work.rst>`_
 
 Appendix A: Reading material suggestions
-----------------------------------------
+++++++++++++++++++++++++++++++++++++++++
 
 Materials science and Electronic Structure
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
+------------------------------------------ 
 - Richard M. Martin, Electronic Structure: http://www.amazon.com/Electronic-Structure-Theory-Practical-Methods/dp/0521534402 (a more practical-use oriented book)
 
 Density functional theory basics and practicalities
-"""""""""""""""""""""""""""""""""""""""""""""""""""
+---------------------------------------------------
 - Walter Kohn Nobel lecture: http://link.aps.org/doi/10.1103/RevModPhys.71.1253 (A very good first read and introduction to DFT.)
 - Rickard's PhD thesis chapter 2-6: http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-428, and lecture notes in Rickard's DFT course (ask Rickard)
 - Designing meaningful density functional theory calculations in materials science--a primer, Ann Mattsson et al. http://iopscience.iop.org/article/10.1088/0965-0393/13/1/R01/meta (Good for practical advice on convergence, etc.)
@@ -144,7 +156,7 @@ Density functional theory basics and practicalities
 - VASP hands-on sessions: http://cms.mpi.univie.ac.at/vasp-workshop/slides/documentation.htm
   
 Density functional theory fundamentals
-""""""""""""""""""""""""""""""""""""""
+--------------------------------------
 - Kieron Burke, the ABC of DFT: http://www.chem.uci.edu/~kieron/dftold2/materials/bookABCDFT/gamma/g1.pdf
 - Klaus Capelle, A bird's-eye view of density-functional theory: http://arxiv.org/abs/cond-mat/0211443
 - Parr and Yang, Density-Functional Theory of Atoms and Molecules: http://www.amazon.com/Density-Functional-Molecules-International-Monographs-Chemistry/dp/0195092767 (great coverage of fundamental theory, but starting to get a bit dated.)
@@ -152,12 +164,12 @@ Density functional theory fundamentals
 - Jones and Gunnarsson, The density functional formalism, its applications and prospects: http://rmp.aps.org/abstract/RMP/v61/i3/p689_1 (review paper from 1989)
   
 Computing
-^^^^^^^^^
+---------
 - LinuxCommand.org: http://linuxcommand.org/ (Good introduction to the Linux command line, etc.)
 - Eric Jones and Travis Oliphant, Introduction to Scientific Computing: https://www.physics.rutgers.edu/grad/509/python1.pdf (Presentation on the use of Python for Scientific Computing)
 
 
 Appendix B: University Organizational Info
-------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++
 * `LiTH <Organization/lith.rst>`_
 
