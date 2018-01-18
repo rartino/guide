@@ -54,7 +54,7 @@ Formalities
 -----------
 * `Salary and benefits <Formalities/salary.rst>`_
 * `Work environment <Formalities/environment.rst>`_
-* `Department and University Organization <Formalities/organization.rst>`_
+* `Overview of Department and University Organization <Formalities/organization.rst>`_ (For more details, see the relevant  `Appendix B`_ below)
 
 Computing
 ---------
