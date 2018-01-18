@@ -156,3 +156,8 @@ Computing
 - LinuxCommand.org: http://linuxcommand.org/ (Good introduction to the Linux command line, etc.)
 - Eric Jones and Travis Oliphant, Introduction to Scientific Computing: https://www.physics.rutgers.edu/grad/509/python1.pdf (Presentation on the use of Python for Scientific Computing)
 
+
+Appendix B: University Organizational Info
+------------------------------------------
+* `LiTH <Organization/lith.rst>`_
+
