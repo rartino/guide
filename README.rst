@@ -1,13 +1,6 @@
 The guide
 =========
 
-.. figure:: Images/stuffedanimal.png
-    :figwidth: 100%
-    :width: 100%
-    :align: right
-    :alt: The guide
-    :figclass: align-right
-
 .. contents:: :depth: 2
 
 Preface
