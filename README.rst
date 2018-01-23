@@ -82,8 +82,8 @@ Teaching
 * `Tutorials (Lektioner) <Teaching/tutorials.rst>`_
 * `Exam corrections <Teaching/exam_corrections.rst>`_
 
-Formalities
------------
+Formalia
+--------
 * `Professional conduct and ethics <Working/conduct.rst>`_
 * `Career paths at LiU <Working/paths.rst>`_
 * `Publicity and confidentiality <Working/publicity.rst>`_
