@@ -35,12 +35,12 @@ How to get to/from Linköping
 * `Ryanair <https://www.ryanair.com/gb/en/>`_ flies to/from `Skavsta Airport <https://www.skavsta.se/>`_, which is ca 100 km NE of Linköping. `Flygbussarna <https://www.flygbussarna.se/>`_ provides a shuttle bus to Linköping that takes ca 90 minutes and arrives at Linköping Resecentrum. 
 * Flights to/from Stockholm `Arlanda Airport <https://www.swedavia.com/arlanda/>`_, which is a larger international aiport. Stockholm is ca 200 km NE of Linköping. There is a convinient train station located inside the airport itself with direct trains to Linköping resecentrum (note: to go to Arlanda by train one must show a ticket explicitly saying 'to Arlanda' when exiting the station, or one has to pay an extra fee). `Flygbussarna <https://www.flygbussarna.se/>`_ also provides a shuttle bus to Linköping.
 
-Public transport / östgötatrafiken
+Public transport / Östgötatrafiken
 ----------------------------------
-Public transport in Linköping is handled by `Östgötatrafiken <https://www.ostgotatrafiken.se/>`. You cannot pay on busses (neither with credit card or cash). The only ways to pay for your ticket is:
+Public transport in Linköping is handled by `Östgötatrafiken <https://www.ostgotatrafiken.se/>`_. You cannot pay on busses (neither with credit card or cash). The only ways to pay for your ticket is:
 * Use the App for Android or iPhone. Buy a ticket before the bus arrives, and press 'activate' on it as you are entering the bus. To pay inside the app you either have to use the Swedish payment system `Swish <https://www.getswish.se/>`_ or enter a VISA or mastercard number into your phone.
-* Buy a one-time ticket in Green machines `Quickomat <https://www.ostgotatrafiken.se/biljetter/kopa-biljett/quickomater/>`. These are however not that frequent. 
-* Buy a one-time ticket at the Östgötatrafiken customer center at Linköping resecentrum or in a `cooperating store <https://www.ostgotatrafiken.se/biljetter/kopa-biljett/forsaljningsombud/>`.
+* Buy a one-time ticket in Green machines `Quickomat <https://www.ostgotatrafiken.se/biljetter/kopa-biljett/quickomater/>`_. These are however not that frequent. 
+* Buy a one-time ticket at the Östgötatrafiken customer center at Linköping resecentrum or in a `cooperating store <https://www.ostgotatrafiken.se/biljetter/kopa-biljett/forsaljningsombud/>`_.
 * Buy a refillable travel card 'Resekortet' in any of the places that sell one-time tickets. This also allows rebated frequent travel tickets.
 
 Personal identification number
