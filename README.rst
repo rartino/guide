@@ -65,12 +65,11 @@ formal matter, this person is a good place to get started. Beyond that:
 * About contracts, etc., contact the IFM 'HR-partner' (https://liu.se/en/organisation/liu/ifm).
 * Ask Rickard, preferably by email (try to avoid simply dropping by, unless urgent or of a more personal nature).
 
-Part 2: Day-to-day
-++++++++++++++++++
+Part 2: Working
++++++++++++++++
 
-Working
--------
-* `Professional conduct and ethics <Working/conduct.rst>`_
+Practicalities
+--------------
 * `Register for conferences <Working/travel.rst>`_
 * `Travel <Working/travel.rst>`_
 * `Writing papers <Working/papers.rst>`_
@@ -85,6 +84,7 @@ Teaching
 
 Formalities
 -----------
+* `Professional conduct and ethics <Working/conduct.rst>`_
 * `Career paths at LiU <Working/paths.rst>`_
 * `Publicity and confidentiality <Working/publicity.rst>`_
 * `Work environment <Formalities/environment.rst>`_
