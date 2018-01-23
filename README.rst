@@ -55,8 +55,11 @@ Computing
 * `Our IT infrastructure, software stack <Computing/groupit.rst>`_
 * `Supercomputer access <Computing/supercomputers.rst>`_
 
-Working Day-to-day
-------------------
+Part 2: Day-to-day
+++++++++++++++++++
+
+Working
+-------
 * `Professional conduct and ethics <Working/conduct.rst>`_
 * `Register for conferences <Working/travel.rst>`_
 * `Travel <Working/travel.rst>`_
@@ -88,7 +91,7 @@ formal matter, this person is a good place to get started. Beyond that:
 * About contracts, etc., contact the IFM 'HR-partner' (https://liu.se/en/organisation/liu/ifm).
 * Ask Rickard, preferably by email (try to avoid simply dropping by, unless urgent or of a more personal nature).
 
-Part 2: Extended information
+Part 3: Extended information
 ++++++++++++++++++++++++++++
 
 Supervising and managing
