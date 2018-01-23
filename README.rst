@@ -42,19 +42,12 @@ Practicalities
 * `Finding your way <Practicalities/maps.rst>`_
 * `Meeting rooms <Practicalities/meetingrooms.rst>`_
 * `Information channels <Practicalities/channels.rst>`_ (Email lists and shared calendars)
-* `Travel <Practicalities/travel.rst>`_
 * `Being away: vacation, sick leave, parental leave, working from home <Practicalities/away.rst>`_
 * `Purchases and Expenses <Practicalities/purchase.rst>`_ (Including buying a computer)
 * `Library <Practicalities/library.rst>`_ (Books and papers) 
 * `Lost and found <Practicalities/lost.rst>`_
-* `Publishing <Practicalities/publishing.rst>`_
-* `Contacts, etc. worth to know <Practicalities/other.rst>`_ 
-
-Formalities
------------
 * `Salary and benefits <Formalities/salary.rst>`_
-* `Work environment <Formalities/environment.rst>`_
-* `Overview of Department and University Organization <Formalities/organization.rst>`_ (For more details, see the relevant  `Appendix B: University Organizational Info`_ below)
+* `Contacts, etc. worth to know <Practicalities/other.rst>`_ 
 
 Computing
 ---------
@@ -62,13 +55,28 @@ Computing
 * `Our IT infrastructure, software stack <Computing/groupit.rst>`_
 * `Supercomputer access <Computing/supercomputers.rst>`_
 
-Working
--------
+Working Day-to-day
+------------------
 * `Professional conduct and ethics <Working/conduct.rst>`_
-* `Writing papers, presentations, etc. <Working/writing.rst>`_
-* `Career paths at LiU <Working/paths.rst>`_
-* `Rules, Regulations, and Law about publicity and confidentiality <Working/publicity.rst>`_
+* `Register for conferences <Working/travel.rst>`_
+* `Travel <Working/travel.rst>`_
+* `Writing papers <Working/papers.rst>`_
+* `Presentations <Working/presentations.rst>`_
+* `Posters <Working/posters.rst>`_
 * `Being a supporting peer for someone else <Working/supportingpeer.rst>`_
+
+Teaching
+--------
+* `Tutorials (Lektioner) <Teaching/tutorials.rst>`_
+* `Lectures <Teaching/lectures.rst>`_
+* `Course examiner (examinator) <Teaching/examiner.rst>`_ (How to schedule courses, report grades, etc.)
+
+Formalities
+-----------
+* `Career paths at LiU <Working/paths.rst>`_
+* `Publicity and confidentiality <Working/publicity.rst>`_
+* `Work environment <Formalities/environment.rst>`_
+* `Overview of Department and University Organization <Formalities/organization.rst>`_ (For more details, see the relevant  `Appendix B: University Organizational Info`_ below)
 
 Who and how to ask for help about formal matters
 ------------------------------------------------
@@ -80,20 +88,14 @@ formal matter, this person is a good place to get started. Beyond that:
 * About contracts, etc., contact the IFM 'HR-partner' (https://liu.se/en/organisation/liu/ifm).
 * Ask Rickard, preferably by email (try to avoid simply dropping by, unless urgent or of a more personal nature).
 
-Part 2: Guidelines, hints, and day-to-day info
-++++++++++++++++++++++++++++++++++++++++++++++
+Part 2: Extended information
+++++++++++++++++++++++++++++
 
 Supervising and managing
 ------------------------
 * `General guidelines <Supervision/work.rst>`_
 * `Recruiting <Supervision/recruiting.rst>`_
 * `Recommendaton letters <Supervision/recommendations.rst>`_
-
-Teaching
---------
-* `Tutorials (Lektioner) <Teaching/tutorials.rst>`_
-* `Lectures <Teaching/lectures.rst>`_
-* `Course examiner (examinator) <Teaching/examiner.rst>`_
 
 PhD students
 ------------
