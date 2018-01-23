@@ -7,6 +7,7 @@ Helpful resources:
 - https://www.euraxess.se/information/search/field_service_category/living-europe-1221/country/sweden-1081
 - http://work.sweden.se/plan-your-move/welcome-to-sweden-prepare-for-your-move/
 - https://sweden.se/
+- https://wikitravel.org/en/Link%C3%B6ping
   
 About Linköping University
 --------------------------
@@ -26,6 +27,17 @@ People working at LiU include ca 330 professors and 700 PhD students.
 Help
 ----
 When you set up your arrival, you should be directed to an *'arrival helper'* to help international researchers with arrival questions and their relocation such as accommodation, migration, insurance, tax, social security and day care/schooling for children. At the time of writing, this is a senior coordinator at the International office (https://liu.se/en/employee/jesgi11), 
+
+How to get to/from Linköping
+----------------------------
+* `Linköping (Saab) Airport <https://www.linkopingcityairport.se/>`_ is a small international airport very close to Linköping city. It is mostly used by `KLM <https://www.klm.com/>`_ with a few flights every day to Amsterdam. It is recommended to take a taxi from/to the airport. No public transport or shuttles stop directly at the airport itself (though, it is not that far to walk to the closest bus stops "SAAB Norra Porten" or "Vetegatan"; but note info about bus passes under Public transport below.) 
+* The city of Norrköping is located ca 45 km NE from Linköping and also has a small international airport `Norrköping Airport <http://norrkopingairport.se/en/>`_. It has flights to/from a few international destinations. There is a bus from the Airport to Linköping, but one can also take the commuter train (östgötapendeln) from Norrköping resecentrum to Linköping resecentrum (takes ca 25 minutes), or a Taxi.
+* `Ryanair <https://www.ryanair.com/gb/en/>`_ flies to/from `Skavsta Airport <https://www.skavsta.se/>`_, which is ca 100 km NE of Linköping. `Flygbussarna <https://www.flygbussarna.se/>`_ provides a shuttle bus to Linköping that takes ca 90 minutes and arrives at Linköping Resecentrum. 
+* Flights to/from Stockholm `Arlanda Airport <https://www.swedavia.com/arlanda/>`, a larger international aiport. Stockholm is ca 200 km NE of Linköping. There is a convinient train station located at the Airport with direct trains to Linköping resecentrum (note: one must have a ticket explicitly saying 'to Arlanda' to be allowed to exit at this station, or one has to pay an extra fee). `Flygbussarna <https://www.flygbussarna.se/>`_ also provides a shuttle bus to Linköping.
+
+Public transport / östgötatrafiken
+----------------------------------
+[To be added]
 
 Personal identification number
 ------------------------------
