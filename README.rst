@@ -55,6 +55,16 @@ Computing
 * `Our IT infrastructure, software stack <Computing/groupit.rst>`_
 * `Supercomputer access <Computing/supercomputers.rst>`_
 
+Getting more help: who and how to ask
+-------------------------------------
+When you arrive you should be assigned a 'supporting peer' ('fadder' in Swedish, also often referred to as 'mentor')
+to show you around and introducing the department and the university. If you don't know where to turn for a
+formal matter, this person is a good place to get started. Beyond that:
+
+* If still unsure, ask the group secretary.
+* About contracts, etc., contact the IFM 'HR-partner' (https://liu.se/en/organisation/liu/ifm).
+* Ask Rickard, preferably by email (try to avoid simply dropping by, unless urgent or of a more personal nature).
+
 Part 2: Day-to-day
 ++++++++++++++++++
 
@@ -80,16 +90,6 @@ Formalities
 * `Publicity and confidentiality <Working/publicity.rst>`_
 * `Work environment <Formalities/environment.rst>`_
 * `Overview of Department and University Organization <Formalities/organization.rst>`_ (For more details, see the relevant  `Appendix B: University Organizational Info`_ below)
-
-Who and how to ask for help about formal matters
-------------------------------------------------
-When you arrive you should be assigned a 'supporting peer' ('fadder' in Swedish, also often referred to as 'mentor')
-to show you around and introducing the department and the university. If you don't know where to turn for a
-formal matter, this person is a good place to get started. Beyond that:
-
-* If still unsure, ask the group secretary.
-* About contracts, etc., contact the IFM 'HR-partner' (https://liu.se/en/organisation/liu/ifm).
-* Ask Rickard, preferably by email (try to avoid simply dropping by, unless urgent or of a more personal nature).
 
 Part 3: Extended information
 ++++++++++++++++++++++++++++
