@@ -81,8 +81,7 @@ Working
 Teaching
 --------
 * `Tutorials (Lektioner) <Teaching/tutorials.rst>`_
-* `Lectures <Teaching/lectures.rst>`_
-* `Course examiner (examinator) <Teaching/examiner.rst>`_ (How to schedule courses, report grades, etc.)
+* `Exam corrections <Teaching/exam_corrections.rst>`_
 
 Formalities
 -----------
@@ -93,12 +92,6 @@ Formalities
 
 Part 3: Extended information
 ++++++++++++++++++++++++++++
-
-Supervising and managing
-------------------------
-* `General guidelines <Supervision/work.rst>`_
-* `Recruiting <Supervision/recruiting.rst>`_
-* `Recommendaton letters <Supervision/recommendations.rst>`_
 
 PhD students
 ------------
@@ -140,10 +133,26 @@ Summer project workers
 * `Expectations <Summerwork/work.rst>`_
 * `Info for supervisors <Summerwork/supervision.rst>`_
 
-Specific info for seniors
--------------------------
+Part 4: Seniors
++++++++++++++++
+
+Formalia
+--------
 * `Formalia <Senior/formalia.rst>`_
 * `Expectations <Senior/work.rst>`_
+
+Supervising and managing
+------------------------
+* `General guidelines <Supervision/work.rst>`_
+* `Recruiting <Supervision/recruiting.rst>`_
+* `Recommendaton letters <Supervision/recommendations.rst>`_
+
+Teaching and Education 
+----------------------
+* `Lectures <Teaching/lectures.rst>`_
+* `Exam construction <Teaching/exam_construction.rst>`_
+* `Course examiner (examinator) <Teaching/examiner.rst>`_ 
+* `Profile responsibility (profilansvar) <Teaching/profile_responsibility.rst>`_
 
 Appendix A: Reading material suggestions
 ++++++++++++++++++++++++++++++++++++++++
