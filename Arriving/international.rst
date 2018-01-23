@@ -38,10 +38,16 @@ How to get to/from Linköping
 Public transport / Östgötatrafiken
 ----------------------------------
 Public transport in Linköping is handled by `Östgötatrafiken <https://www.ostgotatrafiken.se/>`_. You cannot pay on busses (neither with credit card or cash). The only ways to pay for your ticket is:
-* Use the App for Android or iPhone. Buy a ticket before the bus arrives, and press 'activate' on it as you are entering the bus. To pay inside the app you either have to use the Swedish payment system `Swish <https://www.getswish.se/>`_ or enter a VISA or mastercard number into your phone.
-* Buy a one-time ticket in Green machines `Quickomat <https://www.ostgotatrafiken.se/biljetter/kopa-biljett/quickomater/>`_. These are however not that frequent. 
-* Buy a one-time ticket at the Östgötatrafiken customer center at Linköping resecentrum or in a `cooperating store <https://www.ostgotatrafiken.se/biljetter/kopa-biljett/forsaljningsombud/>`_.
-* Buy a refillable travel card 'Resekortet' in any of the places that sell one-time tickets. This also allows rebated frequent travel tickets.
+
+* Use the App for Android or iPhone. Buy a ticket before the bus arrives, and press 'activate' 
+  on it as you are entering the bus. To pay inside the app you either have to use the Swedish payment system 
+  `Swish <https://www.getswish.se/>`_ or enter a VISA or mastercard number into your phone.
+* Buy a one-time ticket in Green machines 
+  `Quickomat <https://www.ostgotatrafiken.se/biljetter/kopa-biljett/quickomater/>`_. These are however not that common. 
+* Buy a one-time ticket at the Östgötatrafiken customer center at Linköping resecentrum or in a `cooperating
+  store <https://www.ostgotatrafiken.se/biljetter/kopa-biljett/forsaljningsombud/>`_.
+* Buy a refillable travel card 'Resekortet' in any of the places that sell one-time tickets. This also allows 
+  rebated frequent travel tickets.
 
 Personal identification number
 ------------------------------
