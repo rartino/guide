@@ -47,7 +47,8 @@ Public transport in Linköping is handled by `Östgötatrafiken <https://www.ost
 * Buy a one-time ticket at the Östgötatrafiken customer center at Linköping resecentrum or in a `cooperating
   store <https://www.ostgotatrafiken.se/biljetter/kopa-biljett/forsaljningsombud/>`_.
 * Buy a refillable travel card 'Resekortet' in any of the places that sell one-time tickets. This also allows 
-  rebated frequent travel tickets.
+  rebated frequent travel tickets. The card can be refilled in Quickomat, at the places that sell tickets, or online
+  (though, be careful, it may take up to a day for a refill made online to show up on the card.)
 
 Personal identification number
 ------------------------------
