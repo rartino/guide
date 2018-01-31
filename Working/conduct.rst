@@ -1,13 +1,16 @@
-# Code of Conduct
+Code of Conduct
+===============
 
-## Attribution
+Attribution
+-----------
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
+This Code of Conduct is adapted from the `Contributor Covenant <https://www.contributor-covenant.org>`_, version 1.4,
 available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
 
-[homepage]: https://www.contributor-covenant.org
+[homepage]: 
 
-## Our Pledge
+Our Pledge
+----------
 
 In the interest of fostering an open and welcoming environment, we 
 pledge to making participation in our work, projects, and
@@ -16,7 +19,8 @@ size, disability, ethnicity, gender identity and expression, level of experience
 education, socio-economic status, nationality, personal appearance, race,
 religion, or sexual identity and orientation.
 
-## Our Standards
+Our Standards
+-------------
 
 Examples of behavior that contributes to creating a positive environment
 include:
@@ -38,7 +42,8 @@ Examples of unacceptable behavior by participants include:
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
-## Our Responsibilities
+Our Responsibilities
+--------------------
 
 People in leadership and supervisory positions are responsible for clarifying the standards of acceptable
 behavior and are expected to take the appropriate action in instances of unacceptable behavior.
