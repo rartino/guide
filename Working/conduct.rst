@@ -1,5 +1,9 @@
-Code of Conduct
-===============
+Scientific Code of Conduct
+==========================
+[To be added]
+
+Work Environment Code of Conduct
+================================
 
 Attribution
 -----------
@@ -50,6 +54,19 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported by contacting a supervisor or team leader. All
 complaints should be reviewed and investigated, and apropriately escalated. Upon such reporting,
 confidentiality should be kept with regard to the reporter of an incident.
+
+Equal opportunity
+=================
+
+Resources in English:
+
+- LiU website: https://old.liu.se/insidan/HR-Personal/lika-villkor?l=en
+- Course: https://old.liu.se/insidan/HR-Personal/lika-villkor/webbutbildning/?l=en&sc=true
+
+Resources in Swedish:
+
+- LiU website: https://old.liu.se/insidan/HR-Personal/lika-villkor?l=sv
+- Course: https://old.liu.se/insidan/HR-Personal/lika-villkor/webbutbildning/?l=sv
 
 
 
