@@ -34,3 +34,10 @@ web system.
 Follow instructions for 8 days or more above, at that point. From day 15 and forward 'Försäkringskassan' must
 approve your sick days. However, the university will report your case to Försäkringskassan. (Check with IFM's
 HR-partner exactly how this works and what is expected from you.)
+
+Compensation for medicine
++++++++++++++++++++++++++
+The Swedish healthcare system has a 'maximum cost' protection for healthcare fees and medicine.
+For the maximum cost on medicine: it is not clear exactly how this works in relation to the university, 
+but instructions in the sources liked above talks about "handing in" recipts from 'Apoteket' where it says that the 
+medicine is part of this 'maximum cost protection'. [TODO: Research more details.]
