@@ -40,20 +40,40 @@ Practicalities
 * `Postal mail, phone, fax <Practicalities/communication.rst>`_ 
 * `Office supplies <Practicalities/supplies.rst>`_
 * `Finding your way <Practicalities/maps.rst>`_
-* `Meeting rooms <Practicalities/meetingrooms.rst>`_
+* `Meeting and lecture rooms <Practicalities/meetingrooms.rst>`_ (Also projector use, etc.)
 * `Information channels <Practicalities/channels.rst>`_ (Email lists and shared calendars)
 * `Being away: vacation, sick leave, parental leave, working from home <Practicalities/away.rst>`_
 * `Purchases and Expenses <Practicalities/purchase.rst>`_ (Including buying a computer)
 * `Library <Practicalities/library.rst>`_ (Books and papers) 
 * `Lost and found <Practicalities/lost.rst>`_
-* `Salary and benefits <Formalities/salary.rst>`_
+* `Salary and benefits <Practicalities/salary.rst>`_
+* `Register for conferences <Practicalities/travel.rst>`_
+* `Travel <Practicalities/travel.rst>`_
+* `Writing papers <Practicalities/papers.rst>`_
+* `Presentations <Practicalities/presentations.rst>`_
+* `Posters <Practicalities/posters.rst>`_
+* `Being a supporting peer for someone else <Practicalities/supportingpeer.rst>`_
+* `Receiving visitors <Practicalities/visitors.rst>`_
 * `Contacts, etc. worth to know <Practicalities/other.rst>`_ 
 
-Computing
----------
+IT infrastructure access
+------------------------
 * `Central IT, Software <Computing/it.rst>`_ (Computers, Printers) 
-* `Our IT infrastructure, software stack <Computing/groupit.rst>`_
 * `Supercomputer access <Computing/supercomputers.rst>`_
+* `Our IT infrastructure, software stack <Computing/groupit.rst>`_
+
+Teaching
+--------
+* `Tutorials (Lektioner) <Teaching/tutorials.rst>`_
+* `Exam corrections <Teaching/exam_corrections.rst>`_
+
+Formalities
+-----------
+* `Professional conduct and ethics <Formalities/conduct.rst>`_
+* `Career paths at LiU <Formalities/paths.rst>`_
+* `Publicity and confidentiality <Formalities/publicity.rst>`_
+* `Work environment <Formalities/environment.rst>`_
+* `Overview of Department and University Organization <Formalities/organization.rst>`_ (For more details, see the relevant  `Appendix B: University Organizational Info`_ below)
 
 Getting more help: who and how to ask
 -------------------------------------
@@ -65,32 +85,7 @@ formal matter, this person is a good place to get started. Beyond that:
 * About contracts, etc., contact the IFM 'HR-partner' (https://liu.se/en/organisation/liu/ifm).
 * Ask Rickard, preferably by email (try to avoid simply dropping by, unless urgent or of a more personal nature).
 
-Part 2: Working
-+++++++++++++++
-
-Practicalities
---------------
-* `Register for conferences <Working/travel.rst>`_
-* `Travel <Working/travel.rst>`_
-* `Writing papers <Working/papers.rst>`_
-* `Presentations <Working/presentations.rst>`_
-* `Posters <Working/posters.rst>`_
-* `Being a supporting peer for someone else <Working/supportingpeer.rst>`_
-
-Teaching
---------
-* `Tutorials (Lektioner) <Teaching/tutorials.rst>`_
-* `Exam corrections <Teaching/exam_corrections.rst>`_
-
-Formalia
---------
-* `Professional conduct and ethics <Working/conduct.rst>`_
-* `Career paths at LiU <Working/paths.rst>`_
-* `Publicity and confidentiality <Working/publicity.rst>`_
-* `Work environment <Formalities/environment.rst>`_
-* `Overview of Department and University Organization <Formalities/organization.rst>`_ (For more details, see the relevant  `Appendix B: University Organizational Info`_ below)
-
-Part 3: Extended information
+Part 2: Extended information
 ++++++++++++++++++++++++++++
 
 PhD students
@@ -133,7 +128,7 @@ Summer project workers
 * `Expectations <Summerwork/work.rst>`_
 * `Info for supervisors <Summerwork/supervision.rst>`_
 
-Part 4: Seniors
+Part 3: Seniors
 +++++++++++++++
 
 Formalia
