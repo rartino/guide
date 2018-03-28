@@ -49,7 +49,7 @@ Practicalities
 * `Salary and benefits <Practicalities/salary.rst>`_
 * `Register for conferences <Practicalities/travel.rst>`_
 * `Travel <Practicalities/travel.rst>`_
-* `Writing papers <Practicalities/papers.rst>`_
+* `Writing and publishing papers <Practicalities/publishing.rst>`_
 * `Presentations <Practicalities/presentations.rst>`_
 * `Posters <Practicalities/posters.rst>`_
 * `Being a supporting peer for someone else <Practicalities/supportingpeer.rst>`_
