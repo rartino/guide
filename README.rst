@@ -40,7 +40,7 @@ Practicalities
 * `Postal mail, phone, fax <Practicalities/communication.rst>`_ 
 * `Office supplies <Practicalities/supplies.rst>`_
 * `Finding your way <Practicalities/maps.rst>`_
-* `Meeting and lecture rooms <Practicalities/meetingrooms.rst>`_ (Also projector use, etc.)
+* `Meeting and lecture rooms <Practicalities/meetingrooms.rst>`_ (Booking, projector use, etc.)
 * `Information channels <Practicalities/channels.rst>`_ (Email lists and shared calendars)
 * `Being away: vacation, sick leave, parental leave, working from home <Practicalities/away.rst>`_
 * `Purchases and Expenses <Practicalities/purchase.rst>`_ (Including buying a computer)
@@ -53,7 +53,7 @@ Practicalities
 * `Presentations <Practicalities/presentations.rst>`_
 * `Posters <Practicalities/posters.rst>`_
 * `Being a supporting peer for someone else <Practicalities/supportingpeer.rst>`_
-* `Receiving visitors <Practicalities/visitors.rst>`_
+* `Receiving visitors <Practicalities/visitors.rst>`_ (administration, scheduling seminars, etc.)
 * `Contacts, etc. worth to know <Practicalities/other.rst>`_ 
 
 IT infrastructure access
