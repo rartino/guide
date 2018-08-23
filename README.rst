@@ -7,7 +7,7 @@ Preface
 +++++++
 Rickard Armiento is an Associate Professor in Physical Modeling in the group of Theoretical Physics at the Department of Physics, Chemistry and Biology (IFM). Rickard is also an Application Expert in Big Data Analytics at NSC. 
 
-Links to this guide is given to people working with, or being mentored by, Rickard.
+Links to this guide are given to people working with, or being mentored by, Rickard.
 
 Note: this is a work in progress. Many sections are far from complete, and a lot are at this point merely placeholders.
 
