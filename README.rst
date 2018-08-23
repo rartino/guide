@@ -19,9 +19,10 @@ From our channels you will only ever be given informal advice in such matters.
 It is ultimately your responsibility to seek out, read and understand the actual rules, or
 to hire legal expertise to help you with this.
 
-About our unit
-++++++++++++++
-(To be added)
+About us
+++++++++
+Theoretical Physics at the Department of Physics, Chemistry and Biology (IFM).
+(More to be added here)
 
 Part 1: Getting started, things to know 
 +++++++++++++++++++++++++++++++++++++++
