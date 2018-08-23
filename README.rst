@@ -9,7 +9,9 @@ Rickard Armiento is an Associate Professor in Physical Modeling in the group of 
 
 Links to this guide is given to people working with, or being mentored by, Rickard.
 
-If you find anything in need of an update, please don't hesitate to
+Note: this is a work in progress. Many sections are far from complete, and a lot are at this point merely placeholders.
+
+If you find anything in need of an update that you know how to update, please don't hesitate to
 suggest a change. Use the issues system in github, issue a pull-request,
 or just simply send an email to Rickard with the suggested change.
 
