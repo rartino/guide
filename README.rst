@@ -5,7 +5,9 @@ The guide
 
 Preface
 +++++++
-This book outlines how we work.
+Rickard Armiento is an Associate Professor in Physical Modeling in the group of Theoretical Physics at the Department of Physics, Chemistry and Biology (IFM). Rickard is also an Application Expert in Big Data Analytics at NSC. 
+
+Links to this guide is given to people working with, or being mentored by, Rickard.
 
 If you find anything in need of an update, please don't hesitate to
 suggest a change. Use the issues system in github, issue a pull-request,
@@ -18,11 +20,6 @@ insurance, healthcare, and other info that could be, e.g., construed as legal ad
 From our channels you will only ever be given informal advice in such matters. 
 It is ultimately your responsibility to seek out, read and understand the actual rules, or
 to hire legal expertise to help you with this.
-
-About us
-++++++++
-Theoretical Physics at the Department of Physics, Chemistry and Biology (IFM).
-(More to be added here)
 
 Part 1: Getting started, things to know 
 +++++++++++++++++++++++++++++++++++++++
@@ -78,9 +75,7 @@ Formalities
 
 Getting more help: who and how to ask
 -------------------------------------
-When you arrive you should be assigned a 'supporting peer' ('fadder' in Swedish, also often referred to as 'mentor')
-to show you around and introducing the department and the university. If you don't know where to turn for a
-formal matter, this person is a good place to get started. Beyond that:
+When you arrive you should be assigned a 'supporting peer' ('fadder' in Swedish) to show you around and introducing the department and the university. If you don't know where to turn for a formal matter, this person is a good place to get started. Beyond that:
 
 * If still unsure, ask the group secretary.
 * About contracts, etc., contact the IFM 'HR-partner' (https://liu.se/en/organisation/liu/ifm).
